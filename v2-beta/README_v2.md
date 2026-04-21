@@ -116,6 +116,12 @@ raw classification accuracy.
 pip install -r requirements.txt
 ```
 
+The weights file (`weights/nesyware_v2.pth`) must be present before running.
+
+| File | Description | Download |
+|------|-------------|----------|
+| `weights/stage1_binary.pth` | Stage 1 binary classifier (~95 MB) | [HuggingFace](https://huggingface.co/lostCosmonaut/NeSyWare/tree/main/weights_v2) |
+| `weights/stage23_nesyware.pth` | Stage 2/3 NeSyWare checkpoint (~666 MB) | [HuggingFace](https://huggingface.co/lostCosmonaut/NeSyWare/tree/main/weights_v2) |
 ---
 
 ## Launch
