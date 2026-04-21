@@ -1,0 +1,58 @@
+# ── Model weights & checkpoints ─────────────────────────────
+*.pth
+*.pt
+*.ckpt
+*.bin
+weights/
+
+# ── Datasets & malware samples ───────────────────────────────
+dataset/
+data/
+samples/
+malware/
+benign/
+*.exe
+*.dll
+*.sys
+*.scr
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# ── Virtual environments ─────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+
+# ── IDE & OS ─────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs & temporary files ───────────────────────────────────
+*.log
+*.tmp
+*.bak
+logs/
+
+# ── Jupyter ──────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Evaluation outputs ───────────────────────────────────────
+eval_summary.txt
+results/
+outputs/
