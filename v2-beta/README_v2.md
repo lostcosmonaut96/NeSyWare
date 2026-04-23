@@ -223,7 +223,7 @@ where the model encounters families and variants it has not been trained on.
 
 | Metric | Value |
 |--------|-------|
-| Accuracy | **91.6%** |
+| Accuracy | **89.6%** |
 
 | Difficulty | Categories |
 |------------|-----------|
