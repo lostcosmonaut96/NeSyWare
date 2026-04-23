@@ -87,8 +87,8 @@ The framework is organized as a cascaded multi-stage pipeline. Each version of N
 
 | Version | Description |
 |---------|-------------|
-| [v1](./v1/) | Single-stage family classifier on MalImg-24. Custom CNN backbone, 29 behavioral predicates, no binary gatekeeper. |
-| [v2](./v2/) | Three-stage hierarchical pipeline. ResNet-50 backbone, binary gatekeeper (Stage 1), 117 families across 10 categories, 54 symbolic predicates. Multi-dataset training with SOREL auxiliary supervision. |
+| [v1](./v1/README_v1.md) | Single-stage family classifier on MalImg-24. Custom CNN backbone, 29 behavioral predicates, no binary gatekeeper. |
+| [v2](./v2/README_v2.md) | Three-stage hierarchical pipeline. ResNet-50 backbone, binary gatekeeper (Stage 1), 117 families across 10 categories, 54 symbolic predicates. Multi-dataset training with SOREL auxiliary supervision. |
 
 ---
 
