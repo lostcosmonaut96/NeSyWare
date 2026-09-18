@@ -169,11 +169,16 @@ All listed binaries will be independently verified against VirusTotal before inc
 If you use NeSyWare in your research, please cite:
 
 ```bibtex
-@inproceedings{nesyware2025,
+@inproceedings{basciano2026nesyware,
   title     = {NeSyWare: A Neuro-Symbolic Framework   for Hierarchical PE Malware Classification via Differentiable Behavioral Predicates over Binary Images},
-  author    = {Basciano, P.M. and Farina, G. and Monteleone, S.},
-  booktitle = {Under review},
-  year      = {2025}
+  author    = {Basciano, P. M. and Farina, G. and Monteleone, S.},
+  booktitle = {Computer Security. ESORICS 2026 International
+               Workshops},
+  series    = {Lecture Notes in Computer Science},
+  publisher = {Springer},
+  address   = {Cham},
+  year      = {2026},
+  note      = {To appear}
 }
 ```
 
